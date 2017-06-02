@@ -3,3 +3,7 @@ data/text8
 text8.zip
 .ipynb_checkpoints/Skip-Gram_word2vec-checkpoint.ipynb
 Skip-Grams-Solution.ipynb
+checkpoints/checkpoint
+checkpoints/text8.ckpt.data-00000-of-00001
+checkpoints/text8.ckpt.index
+checkpoints/text8.ckpt.meta
